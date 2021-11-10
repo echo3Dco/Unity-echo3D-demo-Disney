@@ -1,5 +1,5 @@
 # Unity-echo3D-demo-Disney
-A new way to watch your favorate Disney movies
+A new way to watch your favorite Disney movies
 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echo3d.co/#/auth/register).
