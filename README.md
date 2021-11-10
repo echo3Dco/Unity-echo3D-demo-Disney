@@ -6,6 +6,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 
 ## Setup
 * Clone the [Unity-echo3D-demo-Disney](https://github.com/echo3Dco/Unity-echo3D-demo-Disney).
+* Load the scene called "Disney-scene" from the 'Scenes' folder
 * [Set the API key](https://docs.echo3d.co/unity/using-the-sdk) in the `echoAR.cs` script inside the `echoAR\echoAR.prefab` using the the Inspector.
 * [Add the 3D model](https://docs.echo3d.co/quickstart/add-a-3d-model) from the 'Models' folder to the console. 
 * [Add the corresponding metadata](https://docs.echo3d.co/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) listed in the `Metadata` folder.
